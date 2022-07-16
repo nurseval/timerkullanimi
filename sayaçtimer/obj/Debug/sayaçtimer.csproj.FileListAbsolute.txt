@@ -1,0 +1,11 @@
+C:\Users\Nur\source\repos\sayaçtimer\bin\Debug\sayaçtimer.exe.config
+C:\Users\Nur\source\repos\sayaçtimer\bin\Debug\sayaçtimer.exe
+C:\Users\Nur\source\repos\sayaçtimer\bin\Debug\sayaçtimer.pdb
+C:\Users\Nur\source\repos\sayaçtimer\obj\Debug\sayaçtimer.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\sayaçtimer\obj\Debug\sayaçtimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nur\source\repos\sayaçtimer\obj\Debug\sayaçtimer.Form1.resources
+C:\Users\Nur\source\repos\sayaçtimer\obj\Debug\sayaçtimer.Properties.Resources.resources
+C:\Users\Nur\source\repos\sayaçtimer\obj\Debug\sayaçtimer.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\sayaçtimer\obj\Debug\sayaçtimer.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\sayaçtimer\obj\Debug\sayaçtimer.exe
+C:\Users\Nur\source\repos\sayaçtimer\obj\Debug\sayaçtimer.pdb
